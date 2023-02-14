@@ -1,0 +1,24 @@
+
+Enrole number:48
+Name:andrea
+buhnic
+Medical specialtycardiology
+Code:3901
+Salary:2000
+Phone number:7632678
+
+Enrole number:345
+Name:jwsdbkw
+woijr
+Medical specialtyuhsakdk
+Code:234
+Salary:298894
+Phone number:299484
+
+Enrole number:23
+Name:andreea
+brezuica
+Medical specialtycardiology
+Code:5432
+Salary:6700
+Phone number:9752121

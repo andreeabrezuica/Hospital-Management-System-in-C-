@@ -1,0 +1,82 @@
+
+Id:5639
+Name:Andreea
+Brezuica
+Age15
+Gender:fem
+Adress:str
+Phone number:0
+
+Id:7872
+Name:asjas
+asdae
+Age12
+Gender:s
+Adress:ansjknkdj
+Phone number:2923
+
+Id:46738
+Name:andreea
+brezuica
+Age12
+Gender:fem
+Adress:ison
+Phone number:7236384
+
+
+
+Id:56
+Name:andreea
+brezuica
+Age12
+Gender:d
+Adress:ajska
+Phone number:29911
+
+Id:464
+Name:ansa
+asjahssa
+Age0
+Gender:
+Adress:
+Phone number:-858993460
+
+Id:123
+Name:ahs
+skal
+Age12
+Gender:s
+Adress:ajsjk
+Phone number:121232
+
+Id:2123
+Name:kdkjsdkjsd
+leklw
+Age72
+Gender:d
+Adress:askj
+Phone number:2392389
+
+Id:7261
+Name:ashs
+akskas
+Age12
+Gender:s
+Adress:kjajas
+Phone number:9298832
+
+Id:7278
+Name:jksjd
+lsjsd
+Age1281
+Gender:sjkjk
+Adress:akjjas
+Phone number:91281982
+
+Id:0
+Name:
+
+Age-858993460
+Gender:
+Adress:
+Phone number:-858993460
